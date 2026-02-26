@@ -1,2 +1,2 @@
-# macsec-surveys-and-papers
-A place for the surveys and papers I've written on various cybersecurity topics
+# Surveys & Papers
+A place for the surveys and papers I've co-written on various cybersecurity topics
